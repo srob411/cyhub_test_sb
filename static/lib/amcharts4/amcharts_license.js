@@ -1,0 +1,1 @@
+am4core.options.commercialLicense = true;

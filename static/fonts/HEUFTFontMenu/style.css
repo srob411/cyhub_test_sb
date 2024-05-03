@@ -1,0 +1,296 @@
+@font-face {
+  font-family: 'heuft-menu';
+  src:  url('fonts/heuft-menu.eot?ocy5rr');
+  src:  url('fonts/heuft-menu.eot?ocy5rr#iefix') format('embedded-opentype'),
+    url('fonts/heuft-menu.ttf?ocy5rr') format('truetype'),
+    url('fonts/heuft-menu.woff?ocy5rr') format('woff'),
+    url('fonts/heuft-menu.svg?ocy5rr#heuft-menu') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-menu-"], [class*=" icon-menu-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'heuft-menu' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu-hs-menu-legend:before {
+  content: "\e955";
+}
+.icon-menu-hs-menu-legend-closed:before {
+  content: "\e956";
+}
+.icon-menu-hs-menu-customer-date:before {
+  content: "\e951";
+}
+.icon-menu-hs-menu-envelope:before {
+  content: "\e952";
+}
+.icon-menu-hs-menu-phone:before {
+  content: "\e953";
+}
+.icon-menu-hs-menu-report-in-processing:before {
+  content: "\e954";
+}
+.icon-menu-hs-info:before {
+  content: "\e950";
+}
+.icon-menu-hs-calendar-view1:before {
+  content: "\e94d";
+}
+.icon-menu-hs-calendar-view2:before {
+  content: "\e94e";
+}
+.icon-menu-hs-calendar-view3:before {
+  content: "\e94f";
+}
+.icon-menu-hs-shopping-bag:before {
+  content: "\e94c";
+}
+.icon-menu-hs-shop-tshirt:before {
+  content: "\e946";
+}
+.icon-menu-hs-shop-polo:before {
+  content: "\e947";
+}
+.icon-menu-hs-shop-hoddie:before {
+  content: "\e948";
+}
+.icon-menu-hs-shop-jacket:before {
+  content: "\e949";
+}
+.icon-menu-hs-shop-socks:before {
+  content: "\e94a";
+}
+.icon-menu-hs-shop-merchandise:before {
+  content: "\e94b";
+}
+.icon-menu-hs-portal:before {
+  content: "\e900";
+}
+.icon-menu-hs-user:before {
+  content: "\e940";
+}
+.icon-menu-hs-employees:before {
+  content: "\e901";
+}
+.icon-menu-hs-training1:before {
+  content: "\e935";
+}
+.icon-menu-hs-jobgroup:before {
+  content: "\e91a";
+}
+.icon-menu-menu-hs-team:before {
+  content: "\e91a";
+}
+.icon-menu-hs-my-data:before {
+  content: "\e93a";
+}
+.icon-menu-hs-coming:before {
+  content: "\e93b";
+}
+.icon-menu-hs-goes:before {
+  content: "\e93c";
+}
+.icon-menu-hs-upgrade:before {
+  content: "\e934";
+}
+.icon-menu-hs-balance:before {
+  content: "\e93d";
+}
+.icon-menu-hs-search:before {
+  content: "\e93e";
+}
+.icon-menu-hs-pin:before {
+  content: "\e941";
+}
+.icon-menu-hs-pin2:before {
+  content: "\e942";
+}
+.icon-menu-hs-coffee:before {
+  content: "\e93f";
+}
+.icon-menu-hs-documents:before {
+  content: "\e902";
+}
+.icon-menu-hs-chart:before {
+  content: "\e903";
+}
+.icon-menu-hs-device:before {
+  content: "\e904";
+}
+.icon-menu-hs-projects:before {
+  content: "\e905";
+}
+.icon-menu-hs-customer:before {
+  content: "\e906";
+}
+.icon-menu-hs-admin:before {
+  content: "\e907";
+}
+.icon-menu-hs-portal-logout:before {
+  content: "\e908";
+}
+.icon-menu-hs-table-start:before {
+  content: "\e909";
+}
+.icon-menu-hs-close:before {
+  content: "\e924";
+}
+.icon-menu-hs-check:before {
+  content: "\e936";
+}
+.icon-menu-hs-date-refreshed:before {
+  content: "\e90a";
+}
+.icon-menu-hs-history-activity:before {
+  content: "\e91b";
+}
+.icon-menu-hs-gantt-chart:before {
+  content: "\e90b";
+}
+.icon-menu-hs-list-categorie:before {
+  content: "\e925";
+}
+.icon-menu-hs-burger:before {
+  content: "\e90c";
+}
+.icon-menu-hs-menu-edit:before {
+  content: "\e913";
+}
+.icon-menu-hs-smartmenu:before {
+  content: "\e933";
+}
+.icon-menu-hs-share:before {
+  content: "\e90d";
+}
+.icon-menu-hs-offer:before {
+  content: "\e91c";
+}
+.icon-menu-hs-approved-ruleset:before {
+  content: "\e90e";
+}
+.icon-menu-hs-copy:before {
+  content: "\e914";
+}
+.icon-menu-hs-status-in-progress:before {
+  content: "\e90f";
+}
+.icon-menu-hs-calculator:before {
+  content: "\e915";
+}
+.icon-menu-hs-filter:before {
+  content: "\e926";
+}
+.icon-menu-hs-filter-all .path1:before {
+  content: "\e910";
+  color: rgb(31, 30, 30);
+}
+.icon-menu-hs-filter-all .path2:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-menu-hs-filter-all .path3:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-menu-hs-download:before {
+  content: "\e916";
+}
+.icon-menu-hs-favorite:before {
+  content: "\e917";
+}
+.icon-menu-hs-calendar:before {
+  content: "\e91d";
+}
+.icon-menu-hs-download-calendar:before {
+  content: "\e918";
+}
+.icon-menu-hs-fullscreen:before {
+  content: "\e919";
+}
+.icon-menu-hs-activity:before {
+  content: "\e91e";
+}
+.icon-menu-hs-service:before {
+  content: "\e91f";
+}
+.icon-menu-hs-tabs:before {
+  content: "\e920";
+}
+.icon-menu-hs-ticket:before {
+  content: "\e921";
+}
+.icon-menu-hs-tasks:before {
+  content: "\e922";
+}
+.icon-menu-hs-folder:before {
+  content: "\e923";
+}
+.icon-menu-hs-lab:before {
+  content: "\e927";
+}
+.icon-menu-hs-save:before {
+  content: "\e928";
+}
+.icon-menu-hs-print:before {
+  content: "\e943";
+}
+.icon-menu-hs-settings:before {
+  content: "\e929";
+}
+.icon-menu-hs-chat:before {
+  content: "\e92a";
+}
+.icon-menu-hs-container:before {
+  content: "\e92b";
+}
+.icon-menu-hs-fw-maximize:before {
+  content: "\e92c";
+}
+.icon-menu-hs-fw-minimize:before {
+  content: "\e92d";
+}
+.icon-menu-hs-tab-list:before {
+  content: "\e92e";
+}
+.icon-menu-hs-arrow-up:before {
+  content: "\e92f";
+}
+.icon-menu-hs-arrow-down:before {
+  content: "\e930";
+}
+.icon-menu-hs-arrow-left:before {
+  content: "\e931";
+}
+.icon-menu-hs-arrow-right:before {
+  content: "\e932";
+}
+.icon-menu-hs-plus:before {
+  content: "\e944";
+}
+.icon-menu-hs-minus:before {
+  content: "\e945";
+}
+.icon-menu-hs-spareparts:before {
+  content: "\e937";
+}
+.icon-menu-hs-service2:before {
+  content: "\e938";
+}
+.icon-menu-hs-clarification:before {
+  content: "\e939";
+}

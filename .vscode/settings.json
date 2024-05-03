@@ -1,0 +1,17 @@
+{
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#009966ff",
+      "statusBar.background": "#00996688",  
+      "activityBar.background": "#00996677", 
+    },
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true,
+    },
+    "svelte.plugin.svelte.compilerWarnings": {
+      "a11y-no-noninteractive-element-interactions": "ignore",
+    }
+}
+
+  

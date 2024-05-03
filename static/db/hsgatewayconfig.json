@@ -1,0 +1,96 @@
+{
+    "2nd_tunnel_interface": "lan1",
+    "gnummer": "345080GA2",
+    "gw_lic_tunnelintunnel": true,
+    "gw_lic_ca": true,
+    "hlic_ts": "2022-11-14 13:28:03 UTC",
+    "rsserveraddressforwithoutvpntunnel": "127.0.0.1",
+    "ipchanged": false,
+    "hostname": "345080GA2",
+    "vpn_2": "",
+    "2nd_tunnel_ip": "172.17.0.253",
+    "vpn_1": "rs-hs.logos.org",
+    "caproxyenabled": false,
+    "autoconnectactive": true,
+    "gw_lic_tunnelwithouttunnel": true,
+    "autoconnectinterval": 21,
+    "timestamp": "2024-02-23 14:08:25",
+    "gw_lic_fc": true,
+    "interfaces": {
+        "lan1": {
+            "broadcast": "127.0.0.1",
+            "routing": [
+                {
+                    "netmask": "255.240.0.0",
+                    "destination": "172.16.0.0",
+                    "gateway": "172.17.0.100"
+                }
+            ],
+            "firewall": {
+                "nat": false,
+                "icmpin": true,
+                "hsdevicein": true,
+                "sshin": true,
+                "configin": true,
+                "httpin": true,
+                "internetin": true,
+                "allin": true
+            },
+            "netmask": "255.255.224.0",
+            "ip": "172.17.6.100",
+            "active": true,
+            "networkType": 0,
+            "type": 0,
+            "dhcp": false,
+            "mac": "00:25:90:e8:81:54"
+        },
+        "lan2": {
+            "broadcast": "127.0.0.1",
+            "routing": [],
+            "licensed": true,
+            "firewall": {
+                "nat": true,
+                "icmpin": true,
+                "hsdevicein": true,
+                "sshin": true,
+                "configin": true,
+                "httpin": true,
+                "internetin": true,
+                "allin": true
+            },
+            "netmask": "255.255.255.0",
+            "ip": "192.168.179.1",
+            "active": true,
+            "networkType": 0,
+            "type": 0,
+            "dhcp": true,
+            "mac": "00:25:90:e8:81:55"
+        }
+    },
+    "crypted": "ZWiEUWnNn/9/K4Iz4ybN1vuRPxi9/038VrtY3c36DdIHVyDG4cMg2D3gIx7WSbH9EUlp5iCNOQn542XHqU8RIg==",
+    "txbackupenabled": false,
+    "cadeviceblacklist": "2GG067605",
+    "ntp": {
+        "broadcast": true,
+        "ip": "pool.ntp.org",
+        "active": true,
+        "interval": 5
+    },
+    "gname": "test_stackblitz",
+    "lcserveraddress": "0.0.0.0",
+    "tunnelmode": 0,
+    "customer_certificate": false,
+    "autogetlicensefilesenabled": false,
+    "ipcheck": "172.17.20.15",
+    "vpn": "80.149.45.3",
+    "lcUpdated": false,
+    "domain": "local",
+    "nameserver": [
+        "8.8.8.8",
+        "172.17.2.128"
+    ],
+    "lcproxyenabled": false,
+    "gateway": "192.168.179.1",
+    "changed": false,
+    "timestampMs": 1708693705263
+}

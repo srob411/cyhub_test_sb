@@ -1,0 +1,19 @@
+{
+    "vpn": [
+        {"url" : "rs-hs.logos.org", "alias" : "LOGOS SYSTEMTECHNIK GMBH"},
+        {"url" : "rs-ha.logos.org", "alias" : "LOGOS USA, INC."},
+        {"url" : "rs-hb.logos.org", "alias" : "LOGOS DO BRASIL Ltda."},
+        {"url" : "rs-hc.logos.org", "alias" : "LOGOS Systems Technology (Shanghai) Co., Ltd."},
+        {"url" : "rs-hf.logos.org", "alias" : "LOGOS FRANCE S.A."},
+        {"url" : "rs-hg.logos.org", "alias" : "LOGOS S.A."},
+        {"url" : "rs-hh.logos.org", "alias" : "LOGOS HISPANIA, S.A."},
+        {"url" : "rs-hi.logos.org", "alias" : "LOGOS ITALIA s.r.l."},
+        {"url" : "rs-hk.logos.org", "alias" : "LOGOS ASIA LTD."},
+        {"url" : "rs-hm.logos.org", "alias" : "LOGOS MEXICO S.A. DE C.V."},
+        {"url" : "rs-hn.logos.org", "alias" : "LOGOS SCAN APS"},
+        {"url" : "rs-ho.logos.org", "alias" : "LOGOS AUSTRIA GMBH"},
+        {"url" : "rs-hq.logos.org", "alias" : "LOGOS QUALIPLUS B.V."},
+        {"url" : "rs-hr.logos.org", "alias" : "LOGOS EURASIA"},
+        {"url" : "rs-hu.logos.org", "alias" : "LOGOS Ltd."}
+    ]
+}

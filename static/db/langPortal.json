@@ -1,0 +1,458 @@
+{
+    "_attributes": {
+        "lang": "0001"
+    },
+    "apptitle": {
+        "_text": "LOGOS YAWETAG"
+    },
+    "apptitletags": {
+        "b": {
+            "_text": "LOGOS ",
+            "i": {
+                "_text": "YAWETAG"
+            }
+        }
+    },
+    "logout": {
+        "_text": "Logout"
+    },
+    "close": {
+        "_text": "Close"
+    },
+    "openmenu": {
+        "_text": "Open menu"
+    },
+    "closemenu": {
+        "_text": "Close menu"
+    },
+    "tt_backToMainPage": {
+        "_text": "Back to the start page"
+    },
+    "tt_menuhandle": {
+        "_text": "Open/close menu"
+    },
+    "tt_userlogin": {
+        "_text": "Logged in user"
+    },
+    "userid": {
+        "_text": "NC"
+    },
+    "nc": {
+        "_text": "NC"
+    },
+    "tt_pinmenu": {
+        "_text": "Pin menu"
+    },
+    "tt_removeelement": {
+        "_text": "Remove element"
+    },
+    "mainpage": {
+        "_text": "Start page"
+    },
+    "configuration": {
+        "_text": "Configuration"
+    },
+    "system": {
+        "_text": "System"
+    },
+    "usermgm": {
+        "_text": "User"
+    },
+    "licence": {
+        "_text": "Licence"
+    },
+    "loadingmsg": {
+        "_text": "Loading ..."
+    },
+    "loading": {
+        "_text": "Loading ..."
+    },
+    "viewlistpopup": {
+        "_text": "Functions"
+    },
+    "viewlistmodules": {
+        "_text": "Area"
+    },
+    "viewlistviews": {
+        "_text": "Function"
+    },
+    "session_expired": {
+        "_text": "Session expired! You have been logged out automatically."
+    },
+    "session_error": {
+        "_text": "Session expired! Data could not be saved."
+    },
+    "login_again": {
+        "_text": "Log in again."
+    },
+    "search": {
+        "_text": "Search"
+    },
+    "abortsearch": {
+        "_text": "Cancel search"
+    },
+    "filter": {
+        "_text": "Apply filter"
+    },
+    "resetform": {
+        "_text": "Reset"
+    },
+    "matchcode": {
+        "_text": "Matchcode"
+    },
+    "state": {
+        "_text": "Status"
+    },
+    "homepage": {
+        "_text": "Homepage"
+    },
+    "keywords": {
+        "_text": "Keywords"
+    },
+    "comment": {
+        "_text": "Comment"
+    },
+    "remark": {
+        "_text": "Remark"
+    },
+    "type": {
+        "_text": "Type"
+    },
+    "name": {
+        "_text": "Name"
+    },
+    "street": {
+        "_text": "Street"
+    },
+    "zip": {
+        "_text": "Postcode"
+    },
+    "city": {
+        "_text": "Place"
+    },
+    "country": {
+        "_text": "Country"
+    },
+    "geocoordonates": {
+        "_text": "Geo-coordinates"
+    },
+    "surname": {
+        "_text": "Surname"
+    },
+    "prename": {
+        "_text": "First name"
+    },
+    "department": {
+        "_text": "Department"
+    },
+    "language": {
+        "_text": "Language"
+    },
+    "phone": {
+        "_text": "Phone"
+    },
+    "current_tel": {
+        "_text": "Current phone"
+    },
+    "fax": {
+        "_text": "Fax"
+    },
+    "mobile": {
+        "_text": "Mobile"
+    },
+    "email": {
+        "_text": "E-mail"
+    },
+    "fullname": {
+        "_text": "Full name"
+    },
+    "birthday": {
+        "_text": "Date of birth"
+    },
+    "relatedadr": {
+        "_text": "Related address"
+    },
+    "filterdisabled": {
+        "_text": "Filter deactivated"
+    },
+    "startingwith": {
+        "_text": "starting with"
+    },
+    "equals": {
+        "_text": "equals"
+    },
+    "contains": {
+        "_text": "contains"
+    },
+    "bytes": {
+        "_text": "Bytes"
+    },
+    "dndfile": {
+        "_text": "Drag and drop file here!"
+    },
+    "doctitle": {
+        "_text": "Title"
+    },
+    "ok": {
+        "_text": "OK"
+    },
+    "yes": {
+        "_text": "Yes"
+    },
+    "no": {
+        "_text": "No"
+    },
+    "select": {
+        "_text": "Select"
+    },
+    "abort": {
+        "_text": "Cancel"
+    },
+    "upload": {
+        "_text": "Upload"
+    },
+    "information": {
+        "_text": "Information"
+    },
+    "error": {
+        "_text": "Error"
+    },
+    "warning": {
+        "_text": "Warning"
+    },
+    "info": {
+        "_text": "Hinweis"
+    },
+    "exclamation": {
+        "_text": "Exclamation"
+    },
+    "confirmation": {
+        "_text": "Confirmation"
+    },
+    "save": {
+        "_text": "Save"
+    },
+    "tt_uploadfile": {
+        "_text": "Upload selected file(s)"
+    },
+    "tt_abortfileupl": {
+        "_text": "Cancel upload"
+    },
+    "tt_selectfile": {
+        "_text": "Select file for upload"
+    },
+    "legend": {
+        "_text": "Legend"
+    },
+    "showlegend": {
+        "_text": "Show legend"
+    },
+    "showfilter": {
+        "_text": "Show filter"
+    },
+    "hidefilter": {
+        "_text": "Hide filter"
+    },
+    "day": {
+        "_text": "Day"
+    },
+    "days": {
+        "_text": "Days"
+    },
+    "hours": {
+        "_text": "Hours"
+    },
+    "minutes": {
+        "_text": "Minutes"
+    },
+    "seconds": {
+        "_text": "Seconds"
+    },
+    "color": {
+        "_text": "Colour"
+    },
+    "description": {
+        "_text": "Description"
+    },
+    "holidays": {
+        "_text": "Public holidays"
+    },
+    "technician": {
+        "_text": "Technician"
+    },
+    "service": {
+        "_text": "Service visit"
+    },
+    "services": {
+        "_text": "Service visits"
+    },
+    "servicetype": {
+        "_text": "Service type"
+    },
+    "startdate": {
+        "_text": "Start"
+    },
+    "enddate": {
+        "_text": "End"
+    },
+    "customer": {
+        "_text": "Customer"
+    },
+    "company": {
+        "_text": "Company"
+    },
+    "device": {
+        "_text": "Device"
+    },
+    "devicenumber": {
+        "_text": "Gerätenummer*"
+    },
+    "tt_showdeviceinfo": {
+        "_text": "Geräteinfos anzeigen*"
+    },
+    "devices": {
+        "_text": "Devices"
+    },
+    "model": {
+        "_text": "Model"
+    },
+    "model_desc": {
+        "_text": "Model description"
+    },
+    "hbb": {
+        "_text": "HBB"
+    },
+    "hbb_desc": {
+        "_text": "HBB description"
+    },
+    "edit_data": {
+        "_text": "Edit data"
+    },
+    "change_password": {
+        "_text": "Change password"
+    },
+    "edit_abort": {
+        "_text": "Discard changes"
+    },
+    "edit_ok": {
+        "_text": "Accept changes"
+    },
+    "changecustomer": {
+        "_text": "Select customer"
+    },
+    "sortby": {
+        "_text": "Sort by"
+    },
+    "sort_asc": {
+        "_text": "Asc."
+    },
+    "sort_desc": {
+        "_text": "Desc."
+    },
+    "curcontext": {
+        "_text": "Current selection"
+    },
+    "nocontext": {
+        "_text": "No selection"
+    },
+    "person": {
+        "_text": "Person"
+    },
+    "history": {
+        "_text": "History"
+    },
+    "favorite": {
+        "_text": "Favourites"
+    },
+    "minutesshort": {
+        "_text": "min."
+    },
+    "_comment": [
+        " Abk.: Minuten ",
+        " Gerätesystem ",
+        " Datepicker "
+    ],
+    "neverloggedin": {
+        "_text": "You have not logged in before."
+    },
+    "address": {
+        "_text": "Address"
+    },
+    "contact": {
+        "_text": "Contact"
+    },
+    "userrefreshed": {
+        "_text": "User data updated."
+    },
+    "userrefreshfailed": {
+        "_text": "The user data could not be updated!"
+    },
+    "changelayout": {
+        "_text": "Activates or deactivates the personalisation of the start page layout."
+    },
+    "btn_changeLayout_act": {
+        "_text": "Activate personalisation"
+    },
+    "btn_changeLayout_deact": {
+        "_text": "Deactivate personalisation"
+    },
+    "tt_editstartpage": {
+        "_text": "Activates or deactivates the personalisation of the start page layout."
+    },
+    "devicelistloaded": {
+        "_text": "Load device list."
+    },
+    "devicelistloadfailed": {
+        "_text": "Fault when loading the device list"
+    },
+    "msg_copytoclipboard": {
+        "_text": "Please use CTRL+C, ENTER in order to copy the text into the clipboard."
+    },
+    "timeout": {
+        "_text": "Timeout"
+    },
+    "msg_ajaxtimeout": {
+        "_text": "The requested data could not be loaded. Please try again to start the request."
+    },
+    "mainuser": {
+        "_text": "Main user"
+    },
+    "msg_toomanyfiles": {
+        "_text": "The maximum permitted number of files to be uploaded has been reached. It is not possible to add further files."
+    },
+    "msg_file_to_big": {
+        "_text": "One or several files exceed the maximum upload size. These files will not be transferred."
+    },
+    "systype_0": {
+        "_text": "-"
+    },
+    "systype_1": {
+        "_text": "TX"
+    },
+    "systype_2": {
+        "b": {
+            "_text": "TX",
+            "sup": {
+                "_text": "II"
+            }
+        }
+    },
+    "placeholder_year": {
+        "_text": "YYYY"
+    },
+    "placeholder_month": {
+        "_text": "MM"
+    },
+    "placeholder_day": {
+        "_text": "DD"
+    },
+    "placeholder_hour": {
+        "_text": "HH"
+    },
+    "placeholder_minute": {
+        "_text": "MM"
+    },
+    "placeholder_second": {
+        "_text": "SS"
+    }
+}

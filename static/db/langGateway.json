@@ -1,0 +1,1142 @@
+{
+    "_attributes": {
+        "lang": "0001"
+    },
+    "gateway": {
+        "_text": "LOGOS ",
+        "i": {
+            "_text": "YAWETAG"
+        }
+    },
+    "gate_001_title": {
+        "_text": "Configure network"
+    },
+    "gate_002_title": {
+        "_text": "System information"
+    },
+    "gate_003_title": {
+        "_text": "Network"
+    },
+    "gate_004_title": {
+        "_text": "Configure routing"
+    },
+    "gate_005_title": {
+        "_text": "Configure VPN"
+    },
+    "gate_006_title": {
+        "_text": "VPN"
+    },
+    "gate_007_title": {
+        "_text": "Reboot"
+    },
+    "gate_009_title": {
+        "_text": "Edit time settings"
+    },
+    "gate_010_title": {
+        "_text": "Time settings"
+    },
+    "gate_011_title": {
+        "_text": "System load"
+    },
+    "gate_012_title": {
+        "_text": "HDD"
+    },
+    "gate_013_title": {
+        "_text": "Memory usage"
+    },
+    "gate_014_title": {
+        "_text": "Uptime"
+    },
+    "gate_015_title": {
+        "_text": "Available network interfaces"
+    },
+    "gate_016_title": {
+        "_text": "Name server"
+    },
+    "gate_017_title": {
+        "_text": "Connection check"
+    },
+    "gate_019_title": {
+        "_text": "System messages"
+    },
+    "gate_020_title": {
+        "_text": "System temperature"
+    },
+    "gate_021_title": {
+        "_text": "Licences"
+    },
+    "gate_022_title": {
+        "_text": "Licences"
+    },
+    "gate_023_title": {
+        "_text": "Licence upload"
+    },
+    "gate_024_title": {
+        "_text": "Licence overview"
+    },
+    "gate_025_title": {
+        "_text": "Configuration download"
+    },
+    "gate_026_title": {
+        "_text": "Configuration upload"
+    },
+    "gate_028_title": {
+        "_text": "Central archive"
+    },
+    "gate_030_title": {
+        "_text": "Firmware upload"
+    },
+    "gate_032_title": {
+        "_text": "Update SSL certificate"
+    },
+    "systemtime": {
+        "_text": "Date and system time of the LOGOS ",
+        "i": {
+            "_text": "YAWETAG"
+        }
+    },
+    "configLoaded": {
+        "_text": [
+            "The LOGOS ",
+            " configuration has been loaded successfully."
+        ],
+        "i": {
+            "_text": "YAWETAG"
+        }
+    },
+    "configLoadFailed": {
+        "_text": [
+            "The LOGOS ",
+            " configuration could not be loaded!"
+        ],
+        "i": {
+            "_text": "YAWETAG"
+        }
+    },
+    "infoLoadFailed": {
+        "_text": [
+            "The LOGOS ",
+            " system information could not be loaded!"
+        ],
+        "i": {
+            "_text": "YAWETAG"
+        }
+    },
+    "msg_noconfigfound": {
+        "_text": "No server configuration found!"
+    },
+    "msg_wronggatewayip": {
+        "_text": "No valid (or missing) input regarding the standard gateway IP found!"
+    },
+    "system": {
+        "_text": "System"
+    },
+    "softwareversion": {
+        "_text": "Software version"
+    },
+    "systeminfo": {
+        "_text": "System information"
+    },
+    "hostname": {
+        "_text": "Host name"
+    },
+    "nameserversettings": {
+        "_text": "Name server settings"
+    },
+    "nameserver": {
+        "_text": "Name server"
+    },
+    "nameserverip": {
+        "_text": "Name server IP"
+    },
+    "interfaces": {
+        "_text": "Network interfaces"
+    },
+    "macaddress": {
+        "_text": "MAC address"
+    },
+    "dhcp": {
+        "_text": "DHCP"
+    },
+    "active": [
+        {
+            "_text": "Active"
+        },
+        {
+            "_text": "Active"
+        }
+    ],
+    "nat": {
+        "_text": "NAT"
+    },
+    "natactive": {
+        "_text": "NAT active"
+    },
+    "msg_natactivated": {
+        "_text": "NAT is active for interface: "
+    },
+    "ipaddress": {
+        "_text": "IP address"
+    },
+    "subnetmask": {
+        "_text": "Subnet mask"
+    },
+    "interfacegateway": {
+        "_text": "Standard gateway IP"
+    },
+    "broadcast": {
+        "_text": "Broadcast"
+    },
+    "routingtable": {
+        "_text": "Routing table"
+    },
+    "destination": {
+        "_text": "Destination IP"
+    },
+    "firewall": {
+        "_text": "Firewall rules"
+    },
+    "activefirewall": {
+        "_text": "Active firewall rules"
+    },
+    "fw_icmpin": {
+        "_text": "Allow ping"
+    },
+    "fw_internetin": {
+        "_text": "Allow Internet protocols"
+    },
+    "allowdeviceaccess": {
+        "_text": "Allow device access"
+    },
+    "fw_allin": {
+        "_text": "Allow any traffic"
+    },
+    "fw_configin": {
+        "_text": "Allow config"
+    },
+    "fw_hsdevicein": {
+        "_text": "Allow LOGOS devices"
+    },
+    "fw_sshin": {
+        "_text": "Allow SSH"
+    },
+    "fw_httpin": {
+        "_text": "Allow HTTP"
+    },
+    "activatemasquerading": {
+        "_text": "Activate masquerading"
+    },
+    "editconfig": {
+        "_text": "Process configuration"
+    },
+    "endeditconfig": {
+        "_text": "Finish \"Process configuration\""
+    },
+    "saveconfig": {
+        "_text": "Save configuration"
+    },
+    "msg_savingconfig": {
+        "_text": "Saving configuration ..."
+    },
+    "msg_revert_modifications": {
+        "_text": "Discard changes?"
+    },
+    "msg_createnewroute": {
+        "_text": "Creating a new routing entry:"
+    },
+    "msg_editroute": {
+        "_text": "Editing the routing entry:"
+    },
+    "msg_removeroute": {
+        "_text": "Remove the selected routing entry?"
+    },
+    "msg_routeconfiginvalid": {
+        "_text": "The routing entry cannot be saved since it contains invalid entries."
+    },
+    "msg_createnewnameserver": {
+        "_text": "Creating a new name server:"
+    },
+    "msg_editnameserver": {
+        "_text": "Editing the name server:"
+    },
+    "msg_removenameserver": {
+        "_text": "Remove selected name server?"
+    },
+    "msg_nameserverconfiginvalid": {
+        "_text": "The name server settings cannot be saved since the address includes invalid entries."
+    },
+    "msg_revert_interfacemodifications": {
+        "_text": "There are changes to this network interface. Accept these changes?"
+    },
+    "msg_revert_commonmodifications": {
+        "_text": "There changes to the general network configuration Accept these changes?"
+    },
+    "savechanges": {
+        "_text": "Accept changes"
+    },
+    "cancelchanges": {
+        "_text": "Discard changes"
+    },
+    "commoninterfacesettings": {
+        "_text": "General settings"
+    },
+    "settings": {
+        "_text": "Settings"
+    },
+    "devicename": {
+        "_text": "Device name"
+    },
+    "domain": {
+        "_text": "Domain"
+    },
+    "msg_savedconfig_successfully": {
+        "_text": "The configuration has been updated successfully."
+    },
+    "msg_savedconfig_error": {
+        "_text": "A fault has occurred when updating the configuration."
+    },
+    "msg_copytousbfailed": {
+        "_text": "The configuration could not be copied to the USB stick."
+    },
+    "btn_reloadconfig": {
+        "_text": "Reload configuration"
+    },
+    "msg_fwrulecheck_failed": {
+        "_text": [
+            "At least one ",
+            " network interface must contain an activated firewall rule such as ",
+            " or ",
+            ". "
+        ],
+        "b": [
+            {
+                "_text": "active"
+            },
+            {
+                "_text": "Allow config"
+            },
+            {
+                "_text": "Allow each traffic"
+            }
+        ],
+        "p": {
+            "_text": "This rule has been broken by your last action and the last modification has not been applied."
+        }
+    },
+    "choosevpn": {
+        "_text": "Select VPN server"
+    },
+    "usedvpn": {
+        "_text": "VPN servers used"
+    },
+    "availvpn": {
+        "_text": "VPN servers available"
+    },
+    "psk": {
+        "_text": "PSK"
+    },
+    "msg_savenochanges": {
+        "_text": "No changes to be saved found."
+    },
+    "msg_errorinchanges": {
+        "_text": "The changes contain faulty information. ",
+        "p": {
+            "_text": "They must be corrected beforehand or discarded."
+        }
+    },
+    "msg_saveconfigchanges": {
+        "_text": "Save changes?"
+    },
+    "msg_unsavedchanges": {
+        "_text": "There are changes which were not saved. ",
+        "p": {
+            "_text": "Save these changes?"
+        }
+    },
+    "btn_restartsystem": {
+        "_text": "Restart the LOGOS ",
+        "i": {
+            "_text": "YAWETAG"
+        }
+    },
+    "systemrebooting": {
+        "_text": "Restarting the LOGOS ",
+        "i": {
+            "_text": "YAWETAG"
+        }
+    },
+    "msg_restartsystem": {
+        "_text": [
+            "Restart the ",
+            "? "
+        ],
+        "b": {
+            "_text": "LOGOS ",
+            "i": {
+                "_text": "YAWETAG"
+            }
+        },
+        "p": [
+            {
+                "_text": "When restarting the system all changes are applied which have been executed on the system configuration since the last restart."
+            },
+            {
+                "_text": "After the restart you will be automatically logged out from the web surface and you have to log in again afterwards."
+            }
+        ]
+    },
+    "msg_errorreboot": {
+        "_text": "You don't have the necessary rights to perform a restart or an error has occurred."
+    },
+    "seconds": [
+        {
+            "_text": "Seconds"
+        },
+        {
+            "_text": "Seconds"
+        }
+    ],
+    "msg_noinfofound": {
+        "_text": "No system information available!"
+    },
+    "uptime": {
+        "_text": "Uptime"
+    },
+    "systemload": {
+        "_text": "System load"
+    },
+    "hdd": {
+        "_text": "HDD"
+    },
+    "memory": {
+        "_text": "Memory usage"
+    },
+    "refreshinfo": {
+        "_text": "Update system information"
+    },
+    "msg_infopendingconfig": {
+        "_text": "An updated system configuration has been found which has not yet been applied since a system reboot has not yet been performed. ",
+        "p": {
+            "_text": [
+                "Please select ",
+                " to carry out a restart of the system so that you can use this configuration."
+            ],
+            "b": {
+                "_text": "Reboot"
+            }
+        }
+    },
+    "ntpsettings": {
+        "_text": "NTP server settings"
+    },
+    "ntpip": {
+        "_text": "NTP server"
+    },
+    "ntpsynch": {
+        "_text": "NTP synch"
+    },
+    "ntpbroadcastactive": {
+        "_text": "NTP broadcast active"
+    },
+    "ntpsynchinterval": {
+        "_text": "NTP server synchronisation interval"
+    },
+    "ntpsynchrunning": {
+        "_text": "NTP synchronisation running"
+    },
+    "ntpsynchsuccess": {
+        "_text": "NTP synchronisation successful"
+    },
+    "ntpsynchfailed": {
+        "_text": "NTP synchronisation failed"
+    },
+    "saventp": {
+        "_text": "Save NTP configuration"
+    },
+    "msg_ntpsynchsuccess": {
+        "_text": "Synchronisation with NTP server successful"
+    },
+    "msg_ntpsynchfailed": {
+        "_text": "Synchronisation with NTP server failed"
+    },
+    "ntpinterval": {
+        "_text": "Interval"
+    },
+    "manueltime": {
+        "_text": "Adapt system time"
+    },
+    "timezone": {
+        "_text": "Time zone"
+    },
+    "timezones": {
+        "_text": "Time zones"
+    },
+    "settimezone": {
+        "_text": "Set time zone"
+    },
+    "date": {
+        "_text": "System date"
+    },
+    "setdate": {
+        "_text": "Set system date"
+    },
+    "time": {
+        "_text": "System time"
+    },
+    "settime": {
+        "_text": "Set system time"
+    },
+    "setsystemtime_running": {
+        "_text": "Setting of system time running"
+    },
+    "setsystemtime_failed": {
+        "_text": "Setting of system time failed"
+    },
+    "setsystemtime_success": {
+        "_text": "Setting of system time successful"
+    },
+    "msg_setsystemtime_failed": {
+        "_text": "The setting of the system time has failed."
+    },
+    "msg_setsystemtime_success": {
+        "_text": "The setting of the system time has been executed successfully."
+    },
+    "msg_ntpconfiginvalid": {
+        "_text": [
+            "The ",
+            " contain invalid information."
+        ],
+        "b": {
+            "_text": "NTP server settings"
+        }
+    },
+    "selecttime": {
+        "_text": "Select time and date"
+    },
+    "interfaceup": {
+        "_text": "Interface Up"
+    },
+    "btn_closewithsave": {
+        "_text": "Close and save changes"
+    },
+    "btn_closewithoutsave": {
+        "_text": "Close and discard changes"
+    },
+    "msg_loadingtimezones": {
+        "_text": "Load available time zones"
+    },
+    "msg_loadingvpn": {
+        "_text": "Load available VPN servers"
+    },
+    "selectvpn": {
+        "_text": "Select VPN server"
+    },
+    "customvpn": {
+        "_text": "Use private VPN server"
+    },
+    "confcustomvpn": {
+        "_text": "Configure private VPN server"
+    },
+    "vpnip": {
+        "_text": "VPN IP"
+    },
+    "vpnserver": {
+        "_text": "VPN server"
+    },
+    "msg_vpnlist": {
+        "_text": "The maximum number of configurable VPN servers has been reached. ",
+        "p": {
+            "_text": [
+                "In order to add another server you have to delete a \"",
+                "\" from the list."
+            ],
+            "b": {
+                "_text": "VPN server used"
+            }
+        }
+    },
+    "msg_noconfvpnfound": {
+        "_text": "In the current configuration no valid VPN server entries have been found.",
+        "p": {
+            "_text": "TeleService is not possible without a configured VPN server."
+        }
+    },
+    "msg_check": {
+        "_text": "An updated system configuration has been found which has not yet been applied since a system reboot has not yet been performed.",
+        "p": {
+            "_text": "The connection check only verifies the currently used system configuration."
+        }
+    },
+    "docheck": {
+        "_text": "Perform check"
+    },
+    "doallchecks": {
+        "_text": "Perform all checks"
+    },
+    "pingtest": {
+        "_text": "Check Ping"
+    },
+    "dnstest": {
+        "_text": "Check DNS"
+    },
+    "ipsectest": {
+        "_text": "Check IPSec"
+    },
+    "teleservertest": {
+        "_text": "Check connection to teleserver"
+    },
+    "check_running": {
+        "_text": "Check is running"
+    },
+    "check_success": {
+        "_text": "Check was successful"
+    },
+    "check_failed": {
+        "_text": "Check failed"
+    },
+    "moreinformation": {
+        "_text": "Further information"
+    },
+    "msg_ipcheckfailed": {
+        "_text": "Information regarding the failed ping check"
+    },
+    "msg_dnscheckfailed": {
+        "_text": "Information regarding the failed DNS check"
+    },
+    "msg_ipseccheckfailed": {
+        "_text": "Information regarding the failed IPSec check"
+    },
+    "msg_teleservercheckfailed": {
+        "_text": "Information regarding the failed teleserver check"
+    },
+    "add": {
+        "_text": "Add"
+    },
+    "remove": {
+        "_text": "Remove"
+    },
+    "failed": {
+        "_text": "Failed"
+    },
+    "successfully": {
+        "_text": "Successful"
+    },
+    "checked": {
+        "_text": "Checked"
+    },
+    "hours": {
+        "_text": "Hours"
+    },
+    "minutes": {
+        "_text": "Minutes"
+    },
+    "msg_usbsticknotfound": {
+        "_text": "No valid USB stick has been found in the system! ",
+        "p": {
+            "_text": "Changes to the existing configuration cannot be saved permanently."
+        }
+    },
+    "msg_newerConfigFound": {
+        "_text": [
+            "A newer configuration has been found on the LOGOS ",
+            " than the one you have loaded. "
+        ],
+        "i": {
+            "_text": "YAWETAG"
+        },
+        "p": {
+            "_text": "If you save this configuration you will overwrite the newer configuration."
+        }
+    },
+    "msg_copyfailed": {
+        "_text": "The updated configuration could not be written on the USB stick! ",
+        "p": {
+            "_text": [
+                "Please check the USB stick of the LOGOS ",
+                "."
+            ],
+            "i": {
+                "_text": "YAWETAG"
+            }
+        }
+    },
+    "msg_type_danger": {
+        "_text": "Danger!"
+    },
+    "msg_type_warn": {
+        "_text": "Warning"
+    },
+    "msg_type_success": {
+        "_text": "Remark"
+    },
+    "autoconnect": {
+        "_text": "Function check of the LOGOS ",
+        "i": {
+            "_text": "YAWETAG"
+        }
+    },
+    "autoconnectactive": {
+        "_text": "Function check active"
+    },
+    "autoconnectinterval": {
+        "_text": "Function check interval"
+    },
+    "msg_autoconnectdisabled": {
+        "_text": [
+            "The automatic function check of the LOGOS ",
+            " has been deactivated! "
+        ],
+        "i": {
+            "_text": "YAWETAG"
+        },
+        "p": {}
+    },
+    "msg_wrongautoconnectinterval": {
+        "_text": [
+            "The input field regarding the ",
+            " contains invalid characters or is empty!"
+        ],
+        "b": {
+            "_text": "function check interval"
+        }
+    },
+    "msg_nosystemmessages": {
+        "_text": "No system messages available."
+    },
+    "activateexpertmode": {
+        "_text": "Activate expert mode"
+    },
+    "msg_expertmodeactivated": {
+        "_text": "The expert mode has been activated."
+    },
+    "msg_expertmodedeactivated": {
+        "_text": "The expert mode has been deactivated."
+    },
+    "msg_langcookies": {
+        "_text": "You have to allow your browser to set cookies for this page in order to be able to save the language settings."
+    },
+    "_comment": [
+        " Firewall Info Uebersetzungen (Hinweise die beim Mouseover ueber Firewallregel angezeigt werden) ",
+        " noch nicht übersetzen - sind bisher nur Platzhalter ",
+        " firmware ",
+        " vpn tunnel ",
+        " Gateway errors ",
+        " Gateway licences ",
+        " SSL "
+    ],
+    "info_allin": {
+        "_text": [
+            "Information on the ",
+            " firewall rule"
+        ],
+        "b": {
+            "_text": "allin"
+        }
+    },
+    "info_configin": {
+        "_text": [
+            "Information on the ",
+            " firewall rule"
+        ],
+        "b": {
+            "_text": "configin"
+        }
+    },
+    "info_hsdevicein": {
+        "_text": [
+            "Information on the ",
+            " firewall rule"
+        ],
+        "b": {
+            "_text": "hsdevicein"
+        }
+    },
+    "info_icmpin": {
+        "_text": [
+            "Information on the ",
+            " firewall rule"
+        ],
+        "b": {
+            "_text": "icmpin"
+        }
+    },
+    "info_internetin": {
+        "_text": [
+            "Information on the ",
+            " firewall rule"
+        ],
+        "b": {
+            "_text": "internetin"
+        }
+    },
+    "msg_fetchcurrenttimezone": {
+        "_text": "The currently used time zone is being loaded ..."
+    },
+    "msg_fetchcurrenttimezoneerror": {
+        "_text": "Error when loading the currently used time zone"
+    },
+    "licence": {
+        "_text": "Licence"
+    },
+    "licenses": {
+        "_text": "Licences"
+    },
+    "no_licence_found": {
+        "_text": "No licence found"
+    },
+    "upload_licence": {
+        "_text": "Upload licence"
+    },
+    "update_licence": {
+        "_text": "Update licence"
+    },
+    "check_licence": {
+        "_text": "Check licence"
+    },
+    "msg_check_licence_error": {
+        "_text": "An error has occurred whilst checking the licence."
+    },
+    "msg_concurrent_action": {
+        "_text": "This action cannot be carried out since another user is already involved with it."
+    },
+    "msg_upload_invalid_file": {
+        "_text": [
+            "One or several files with invalid file format found. The invalid files have been removed from the list.",
+            "Valid formats are:"
+        ],
+        "br": {}
+    },
+    "msg_upload_invalid_filename": {
+        "_text": "One or several files with invalid file name found. The invalid files have been removed from the list."
+    },
+    "msg_upload_failed": {
+        "_text": "File upload failed."
+    },
+    "dndlicencefile": {
+        "_text": "Drag and drop licence file here!"
+    },
+    "msg_updatelicence": {
+        "p": {
+            "_text": [
+                "Drag the licence file to the area marked below or select the file by clicking on the ",
+                " button in order to update the licences."
+            ],
+            "b": {
+                "_text": "Select"
+            }
+        }
+    },
+    "msg_updatelicence_success": {
+        "p": {
+            "_text": "The licence file has been successfully transferred to the server. The server has to be restarted to complete the update. The updated licence will only be available then. Do you wish to restart the server now?"
+        }
+    },
+    "licenceserverip": {
+        "_text": "Licence server IP"
+    },
+    "licencemanager_active": {
+        "_text": "Licence manager XS active"
+    },
+    "msg_uploadedlicence_success": {
+        "_text": "The licence file has been successfully transferred to the server. The server has to be restarted to complete the update. The updated licence will only be available then."
+    },
+    "licence_art": {
+        "_text": "Part"
+    },
+    "licence_var": {
+        "_text": "Variant"
+    },
+    "expireTs": {
+        "_text": "Valid until"
+    },
+    "unlimited": {
+        "_text": "Unlimited"
+    },
+    "msg_empty_licence_file": {
+        "_text": "The licence file does not contain any licences for this device."
+    },
+    "msg_pending_licence": {
+        "_text": "An updated licence file has been found. The system has to be restarted to activate the licence."
+    },
+    "licenceGeneratedDate": {
+        "_text": "Licence created on"
+    },
+    "show_licence": {
+        "_text": "Show licence"
+    },
+    "msg_invalid_hlic_file": {
+        "_text": [
+            "The selected file is invalid. Only licence files with the file names ",
+            " may be uploaded to the server."
+        ],
+        "b": {
+            "_text": "[deviceNumber].hlic"
+        }
+    },
+    "msg_updateconfig": {
+        "p": {
+            "_text": [
+                "Drag the configuration file to the area marked below or select the file by clicking on the ",
+                " button in order to update the configuration."
+            ],
+            "b": {
+                "_text": "Select"
+            }
+        }
+    },
+    "dndconfigfile": {
+        "_text": "Drag and drop configuration file here!"
+    },
+    "msg_invalid_hgdf_file": {
+        "_text": [
+            "The selected file is invalid. Only configuration files with the file names ",
+            " may be uploaded to the server."
+        ],
+        "b": {
+            "_text": "[deviceNumber].hgdf"
+        }
+    },
+    "msg_updateconfig_success": {
+        "p": {
+            "_text": "The configuration file was successfully transferred to the server. To complete the update, the server must be restarted. Only then is the updated configuration active. Should the server now be restarted?"
+        }
+    },
+    "msg_updateconfig_success_log": {
+        "p": {
+            "_text": "The configuration file was successfully transferred to the server. To complete the update, the server must be restarted."
+        }
+    },
+    "msg_upload_dialog_in_progress": {
+        "_text": [
+            "The dialogue window cannot be closed as long as uploads are still active.",
+            "Please wait until all uploads are complete or interrupt the running uploads."
+        ],
+        "p": {}
+    },
+    "central_archive_active": {
+        "_text": "Central archive active"
+    },
+    "tx_backup_active": {
+        "_text": "TX backup active"
+    },
+    "devicenumber_blacklist": {
+        "_text": "Devicenumber blacklist"
+    },
+    "msg_no_valid_licence": {
+        "_text": "No valid license was found to activate this property."
+    },
+    "back_to_overview": {
+        "_text": "Back to the overview"
+    },
+    "no_archive_server_licence": {
+        "_text": "No license was found to configure the archive server."
+    },
+    "foreigncomp": {
+        "_text": "Foreign component"
+    },
+    "foreigncompip": {
+        "_text": "Foreign component IP"
+    },
+    "foreigncompinterface": {
+        "_text": "Foreign component interface"
+    },
+    "msg_invalidip": {
+        "_text": "The settings cannot be saved since the address includes invalid entries."
+    },
+    "checkfirmware": {
+        "_text": "Check firmware file"
+    },
+    "firmware_ok": {
+        "_text": "Firmware file successfully checked."
+    },
+    "firmware_error": {
+        "_text": "An error has occurred when checking the firmware file."
+    },
+    "firmware_state_12": {
+        "_text": "Firmware file invalid or containing errors."
+    },
+    "firmware_state_13": {
+        "_text": "The device number of the firmware file does not correspond to the device."
+    },
+    "dndfirmware": {
+        "_text": "Transfer firmware via drag and drop"
+    },
+    "msg_firmware_check_in_progress": {
+        "_text": "The dialogue window cannot be closed as long as the firmware is checked."
+    },
+    "msg_firmware_update_in_progress": {
+        "_text": "The dialogue window cannot be closed as long as the firmware is updated."
+    },
+    "firmware_update": {
+        "_text": "Update firmware"
+    },
+    "firmware_update_running": {
+        "_text": "Firmware update"
+    },
+    "firmware_update_success": {
+        "_text": "The firmware has been updated successfully."
+    },
+    "firmware_update_error": {
+        "_text": "An error has occurred when updating the firmware."
+    },
+    "firmware_update_retry": {
+        "_text": "Back to firmware upload"
+    },
+    "msg_firmware": {
+        "p": {
+            "_text": [
+                "Drag the firmware file downwards into the area marked or select the file by clicking on the ",
+                " button to update the firmware. Then the file will be automatically transferred to the server. Then it can be installed."
+            ],
+            "b": {
+                "_text": "Select"
+            }
+        }
+    },
+    "msg_firmware_upload_success": {
+        "_text": "Firmware upload successfully completed"
+    },
+    "msg_firmware_upload_failed": {
+        "_text": "Firmware upload failed"
+    },
+    "msg_firmware_update": {
+        "_text": [
+            "Update firmware? ",
+            "When the update has been completed the server will be restarted and you need to log in again."
+        ],
+        "br": {}
+    },
+    "msg_firmware_abort": {
+        "_text": "Cancel firmware update"
+    },
+    "msg_firmware_concurrent": {
+        "_text": "This action cannot be carried out since another user is already involved with it."
+    },
+    "msg_notenoughspace": {
+        "_text": "The file cannot be transferred since there is not enough space available on the hard disk."
+    },
+    "msg_firmware_upload_success_and_reboot": {
+        "_text": [
+            "Firmware upload successfully completed. ",
+            " To complete the update, the server must be restarted. ",
+            " Should the server now be restarted? "
+        ],
+        "br": [
+            {},
+            {}
+        ]
+    },
+    "msg_firmware_upload_success_message": {
+        "_text": [
+            "Firmware upload successfully completed. ",
+            " To complete the update, the server must be restarted."
+        ],
+        "br": {}
+    },
+    "tunnelmodes": {
+        "_text": "VPN tunnel mode"
+    },
+    "vpn_tunnelmode_0": {
+        "_text": "TeleService direct"
+    },
+    "vpn_tunnelmode_1": {
+        "_text": "TeleService S2S VPN"
+    },
+    "vpn_tunnelmode_2": {
+        "_text": "TeleService S2S net"
+    },
+    "msg_error_1101": {
+        "_text": "Insufficient hard disk storage available."
+    },
+    "msg_error_1300": {
+        "_text": "The licence file is invalid."
+    },
+    "msg_error_1301": {
+        "_text": "The licence file cannot be used for this device."
+    },
+    "msg_error_1302": {
+        "_text": "The licence file is older than the currently used file."
+    },
+    "msg_error_1303": {
+        "_text": "The updated licence could not be written on the USB stick! ",
+        "p": {
+            "_text": [
+                "Please check the USB stick of the LOGOS ",
+                "."
+            ],
+            "i": {
+                "_text": "YAWETAG"
+            }
+        }
+    },
+    "msg_error_1500": {
+        "_text": "The config file is invalid."
+    },
+    "msg_error_1501": {
+        "_text": "The configuration file does not contain a valid configuration."
+    },
+    "msg_error_1502": {
+        "_text": "The configuration file does not contain a valid keyfile."
+    },
+    "licence_HBGITLMXS": {
+        "_text": "Licence manager XS"
+    },
+    "Licences_HBGITXX01": {
+        "_text": "YAWETAG LAN2"
+    },
+    "updatessl": {
+        "_text": "Update SSL certificate"
+    },
+    "uploadssl": {
+        "_text": "SSL certificate"
+    },
+    "msg_ssl_uploadinfo": {
+        "_text": "You must transfer the file containing the new certificate to the server for updating the SSL certificate. In addition the password for the certificate is required."
+    },
+    "msg_dnd_sslfile": {
+        "_text": "Drag the file containing the SSL certificate downwards into the marked field."
+    },
+    "dnd_ssl_file": {
+        "_text": "Select the SSL certificate via drag and drop"
+    },
+    "ssl_upload_error": {
+        "_text": "An error has occurred whilst transferring the SSL certificate to the server."
+    },
+    "ssl_file_transfer_success": {
+        "_text": "The SSL certificate has been successfully transferred to the server."
+    },
+    "sslpasswords": {
+        "_text": "SSL passwords"
+    },
+    "sslpassword": {
+        "_text": "SSL password"
+    },
+    "keystore_pwd": {
+        "_text": "Keystore password"
+    },
+    "privatekey_pwd": {
+        "_text": "Private key password"
+    },
+    "update_ssl_running": {
+        "_text": "Updating SSL certificate ..."
+    },
+    "ssl_update_error": {
+        "_text": "An error has occurred whilst updating the SSL certificate."
+    },
+    "removessl": {
+        "_text": "Remove SSL certificate"
+    },
+    "msg_remove_ssl": {
+        "_text": [
+            "Should the SSL certificate be deleted?",
+            "To complete the update, the server must be restarted."
+        ],
+        "br": {}
+    },
+    "ssl_delete_success": {
+        "_text": "The SSL certificate was deleted on the server."
+    },
+    "ssl_delete_error": {
+        "_text": "An error occurred whilst deleting the SSL certificate."
+    }
+}
