@@ -1,6 +1,6 @@
 import { fail } from '@sveltejs/kit';
 import { writable } from 'svelte/store';
-import { loadVPNConfig, loadGatewayConfig, loadGatewayInfo } from '../../../mockupData';
+import { loadVPNConfig, loadGatewayConfig, loadGatewayInfo } from '../mockupData';
 
 export async function load ({ parent }) {
     const layoutData = await parent();
