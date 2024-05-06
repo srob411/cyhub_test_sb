@@ -1,5 +1,11 @@
 <script>
     import { page } from '$app/stores';
+    import { goto } from '$app/navigation';
+    import { browser } from '$app/environment';
+
+    if (browser) {
+        goto('/gateway/network-config');
+    }
 </script>
 
 <h1 class="my-4 text-slate-600 text-xl font-bold">testaa / 345080GA2</h1>
