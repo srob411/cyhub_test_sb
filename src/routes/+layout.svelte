@@ -65,38 +65,6 @@
                 </svg> -->
                 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" class="w-[110px]" viewBox="0 0 754 241" width="100%" height="100%" id="svg2">
                     <title id="title3045">Logos: the famous Greek word logos as SVG image</title>
-                    <metadata id="metadata7">
-                      <rdf:RDF>
-                        <cc:Work rdf:about="">
-                          <dc:format>image/svg+xml</dc:format>
-                          <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                          <dc:title>Logos: the famous Greek word logos as SVG image</dc:title>
-                          <dc:date>2011-02-11</dc:date>
-                          <dc:creator>
-                            <cc:Agent>
-                              <dc:title>Roman Eisele</dc:title>
-                            </cc:Agent>
-                          </dc:creator>
-                          <dc:rights>
-                            <cc:Agent>
-                              <dc:title>Roman Eisele</dc:title>
-                            </cc:Agent>
-                          </dc:rights>
-                          <dc:publisher>
-                            <cc:Agent>
-                              <dc:title>Roman Eisele</dc:title>
-                            </cc:Agent>
-                          </dc:publisher>
-                          <dc:description>The famous Greek word logos as SVG image. I don't know if someone still needs this in the times of Unicode, but if you need it here it is ...</dc:description>
-                          <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
-                        </cc:Work>
-                        <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
-                          <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-                          <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-                          <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-                        </cc:License>
-                      </rdf:RDF>
-                    </metadata>
                     <g transform="translate(-5.65625,-14.256981)" style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none">
                       <path d="M 81.828125,131.79605 62.84375,175.62418 c -5.156275,12.03126 -8.398459,19.25782 -9.726563,21.67968 -1.250019,2.42188 -2.343767,3.90625 -3.28125,4.45313 -0.859391,0.46875 -3.046888,0.70312 -6.5625,0.70312 -5.07813,0 -7.61719,-0.74218 -7.617187,-2.22656 -3e-6,-2.65624 13.749983,-32.30465 41.25,-88.94531 -4.140665,-18.906141 -7.695349,-31.132692 -10.664063,-36.679689 -2.96878,-5.546742 -6.679714,-8.320176 -11.132812,-8.320312 -4.609393,1.36e-4 -8.867201,3.437632 -12.773438,10.3125 l -1.875,3.398437 -1.640625,-2.460937 c 4.84374,-18.046733 11.054671,-27.070161 18.632813,-27.070313 5.31247,1.52e-4 9.648403,3.320461 13.007812,9.960938 3.359335,6.64076 8.007767,24.41418 13.945313,53.320316 6.562442,31.95318 12.499936,52.38284 17.8125,61.28906 5.31243,8.82814 10.66398,13.2422 16.05469,13.24219 1.79679,1e-5 3.39835,-0.42968 4.80469,-1.28907 1.40615,-0.85936 4.33584,-4.96091 8.78906,-12.30468 l 2.10937,2.8125 c -3.75009,12.50001 -6.91415,20.23438 -9.49218,23.20312 -2.50009,2.89062 -5.39072,4.33594 -8.67188,4.33594 -6.0157,0 -11.9532,-5.625 -17.8125,-16.875 -5.859434,-11.24998 -11.250054,-30.03902 -16.171875,-56.36719"/>
                       <path d="m 193.74219,106.36636 c 14.68742,1e-4 26.6796,4.64853 35.97656,13.94532 9.37489,9.29694 14.06239,20.85943 14.0625,34.6875 -1.1e-4,13.20316 -4.68761,24.84377 -14.0625,34.92187 -9.37509,10 -21.79695,15 -37.26563,15 -15.00004,0 -27.07034,-4.53125 -36.21093,-13.59375 -9.06252,-9.1406 -13.59376,-21.13278 -13.59375,-35.97656 -1e-5,-8.51557 2.42186,-16.99212 7.26562,-25.42969 4.92186,-8.51554 11.3281,-14.57022 19.21875,-18.16406 7.96871,-3.59366 16.17183,-5.39053 24.60938,-5.39063 m 4.21875,5.39063 c -12.10943,9e-5 -21.79692,6.52352 -29.0625,19.57031 -7.18753,12.96881 -10.78128,25.27348 -10.78125,36.91406 -3e-5,9.6094 2.73435,17.18752 8.20312,22.73438 5.46871,5.46875 12.49996,8.20313 21.09375,8.20312 11.79681,1e-5 21.40618,-5.8203 28.82813,-17.46093 7.42178,-11.71872 11.13272,-24.14058 11.13281,-37.26563 -9e-5,-10.62493 -2.85165,-18.71086 -8.55469,-24.25781 -5.62508,-5.62491 -12.57819,-8.43741 -20.85937,-8.4375"/>
